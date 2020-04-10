@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 
 import LasseHandler from "./components/LasseHandler";
-
+import Header from "./components/Header";
+import SearchButton from "./components/SearchButton";
 import winnerback from "./data/winnerback.json";
 
 export default class App extends Component {
@@ -17,23 +18,9 @@ export default class App extends Component {
   }
 
   render() {
-    const styles = {
-      header: {
-        paddingTop: "1rem",
-        marginBottom: "2rem",
-      },
-      headerText: {
-        textAlign: "center",
-        fontSize: "3rem",
-        fontFamily: "Verdana, Arial, sans-serif",
-        color: "black",
-      },
-    };
     return (
       <div style={{ whiteSpace: "pre-line" }}>
-        <header style={styles.header}>
-          <h1 style={styles.headerText}>Winnerbäcks Texter</h1>
-        </header>
+        <Header />
         <div>
           {!this.state.hasLoaded ? (
             <div>
@@ -43,6 +30,7 @@ export default class App extends Component {
             <LasseHandler data={this.state.data} />
           )}
         </div>
+        <SearchButton />
       </div>
     );
   }
