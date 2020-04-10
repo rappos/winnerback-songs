@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/winnerback-songs/static/js/main.134b2997.chunk.js",
-    "main.js.map": "/winnerback-songs/static/js/main.134b2997.chunk.js.map",
+    "main.js": "/winnerback-songs/static/js/main.33f8ca30.chunk.js",
+    "main.js.map": "/winnerback-songs/static/js/main.33f8ca30.chunk.js.map",
     "runtime-main.js": "/winnerback-songs/static/js/runtime-main.283626bc.js",
     "runtime-main.js.map": "/winnerback-songs/static/js/runtime-main.283626bc.js.map",
-    "static/js/2.d5f680bf.chunk.js": "/winnerback-songs/static/js/2.d5f680bf.chunk.js",
-    "static/js/2.d5f680bf.chunk.js.map": "/winnerback-songs/static/js/2.d5f680bf.chunk.js.map",
+    "static/js/2.5fc10175.chunk.js": "/winnerback-songs/static/js/2.5fc10175.chunk.js",
+    "static/js/2.5fc10175.chunk.js.map": "/winnerback-songs/static/js/2.5fc10175.chunk.js.map",
     "index.html": "/winnerback-songs/index.html",
-    "precache-manifest.8ca2017b394b7384813b67cfca0e4231.js": "/winnerback-songs/precache-manifest.8ca2017b394b7384813b67cfca0e4231.js",
+    "precache-manifest.f750c383204edf5e82fd65de983a9755.js": "/winnerback-songs/precache-manifest.f750c383204edf5e82fd65de983a9755.js",
     "service-worker.js": "/winnerback-songs/service-worker.js",
-    "static/js/2.d5f680bf.chunk.js.LICENSE.txt": "/winnerback-songs/static/js/2.d5f680bf.chunk.js.LICENSE.txt"
+    "static/js/2.5fc10175.chunk.js.LICENSE.txt": "/winnerback-songs/static/js/2.5fc10175.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.283626bc.js",
-    "static/js/2.d5f680bf.chunk.js",
-    "static/js/main.134b2997.chunk.js"
+    "static/js/2.5fc10175.chunk.js",
+    "static/js/main.33f8ca30.chunk.js"
   ]
 }
