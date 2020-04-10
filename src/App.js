@@ -29,7 +29,6 @@ export default class App extends Component {
         color: "black",
       },
     };
-    console.log(this.state.data);
     return (
       <div style={{ whiteSpace: "pre-line" }}>
         <header style={styles.header}>

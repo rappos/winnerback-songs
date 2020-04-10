@@ -26,7 +26,7 @@ export default class LasseHandler extends Component {
         {!this.state.hasLoaded ? (
           <div>LADDAR 2</div>
         ) : (
-          this.state.data.map((item, index) => (
+          this.state.data.map((item) => (
             <SongCard
               title={item.songTitle}
               text={item.songText}
