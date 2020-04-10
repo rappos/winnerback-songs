@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/winnerback-songs/static/js/main.134b2997.chunk.js",
+    "main.js.map": "/winnerback-songs/static/js/main.134b2997.chunk.js.map",
+    "runtime-main.js": "/winnerback-songs/static/js/runtime-main.283626bc.js",
+    "runtime-main.js.map": "/winnerback-songs/static/js/runtime-main.283626bc.js.map",
+    "static/js/2.d5f680bf.chunk.js": "/winnerback-songs/static/js/2.d5f680bf.chunk.js",
+    "static/js/2.d5f680bf.chunk.js.map": "/winnerback-songs/static/js/2.d5f680bf.chunk.js.map",
+    "index.html": "/winnerback-songs/index.html",
+    "precache-manifest.8ca2017b394b7384813b67cfca0e4231.js": "/winnerback-songs/precache-manifest.8ca2017b394b7384813b67cfca0e4231.js",
+    "service-worker.js": "/winnerback-songs/service-worker.js",
+    "static/js/2.d5f680bf.chunk.js.LICENSE.txt": "/winnerback-songs/static/js/2.d5f680bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.283626bc.js",
+    "static/js/2.d5f680bf.chunk.js",
+    "static/js/main.134b2997.chunk.js"
+  ]
+}
