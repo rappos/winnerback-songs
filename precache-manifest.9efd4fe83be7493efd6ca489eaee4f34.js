@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eeb1f38759c4d2e5942a5158a1576d60",
+    "revision": "d5108d3747cd887e96dd2f46cfa95168",
     "url": "/winnerback-songs/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/winnerback-songs/static/js/2.5fc10175.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f930410b099de8ba8548",
-    "url": "/winnerback-songs/static/js/main.33f8ca30.chunk.js"
+    "revision": "9d88b123869dc6acc7d5",
+    "url": "/winnerback-songs/static/js/main.636d9bde.chunk.js"
   },
   {
     "revision": "1067659c3929d0e1b5e0",
